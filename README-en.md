@@ -2,6 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## This project has been deprecated.If you need to sync content to Obsidian, please use the official plugin: [Official Plugin](https://chromewebstore.google.com/detail/cnjifjpddelmedmihgijeibhnjfabmlf?utm_source=item-share-cb).
+
+
 A lightweight web clipper for Obsidian that saves web pages and selected text directly as Markdown files, without requiring a separate Obsidian plugin.
 
 一款轻量级的 Obsidian 网页剪藏工具。它通过一个 Chrome 浏览器插件和一个独立的本地服务，直接将网页全文或划线笔记保存为 Markdown 文件，无需在 Obsidian 中安装额外插件。

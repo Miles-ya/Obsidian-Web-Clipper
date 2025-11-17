@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 本项目已废弃，如有同步到Obsidian的需求请使用官方插件[官方插件](https://chromewebstore.google.com/detail/cnjifjpddelmedmihgijeibhnjfabmlf?utm_source=item-share-cb)
+
 一款轻量级的 Obsidian 网页剪藏工具。它通过一个 Chrome 浏览器插件和一个独立的本地服务，直接将网页全文或划线笔记保存为 Markdown 文件，无需在 Obsidian 中安装额外插件。
 
 [English Version](./README-en.md)
